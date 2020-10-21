@@ -1,5 +1,5 @@
 # entrenador2018
-_Práctica del módulo 3 del curso de desarrollo web 2018_  [ documento del proyecto](https://github.com/davidtrigo/Entrenador2018/doc/)
+_Práctica del módulo 3 del curso de desarrollo web 2018_  [ documento del proyecto]https://github.com/davidtrigo/Entrenador2018/blob/master/doc/m3-pec3.pdf)
 
 ## Comenzando 🚀
 
